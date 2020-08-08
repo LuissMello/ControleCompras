@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ControleCompras.Api/bin
+/ControleCompras.Api/obj
+/ControleCompras.BLL/bin/Debug/netcoreapp3.1
+/ControleCompras.BLL/obj/Debug/netcoreapp3.1
+/ControleCompras.BLL/obj
+/Controlecompras.Models/bin/Debug/netcoreapp3.1
+/Controlecompras.Models/obj/Debug/netcoreapp3.1
+/Controlecompras.Models/obj
+/ControleCompras.Repository/bin/Debug/netcoreapp3.1
+/ControleCompras.Repository/obj
+/packages
